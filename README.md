@@ -1,12 +1,12 @@
 # McMejiro
 
-Japanese composite font of M PLUS 1 and Roboto.
+Japanese composite font of Mplus 1 and Roboto.
 
 ## Components
 
 Generation script is available at [AndroPlus-org/Scripts-McMejiro](https://github.com/AndroPlus-org/Scripts-McMejiro).
 
-| McMejiro | M PLUS 1 | Roboto
+| McMejiro | Mplus 1 | Roboto
 |:---:|:---:|:---:|
 | **Regular** | Regular | Regular |
 | **Thin** | Thin | Thin |
@@ -15,7 +15,7 @@ Generation script is available at [AndroPlus-org/Scripts-McMejiro](https://githu
 | **Bold** | Bold | Bold |
 | **Extrabold** | Heavy | Black |
 
-Mejiro-20220222 uses **M PLUS 1 1.001** and **Roboto 2.137**.
+Mejiro-20220222 uses **Mplus 1 1.001** and **Roboto 2.137**.
 
 ## License
 
