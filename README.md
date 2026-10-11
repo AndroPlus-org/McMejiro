@@ -15,7 +15,7 @@ Generation script is available at [AndroPlus-org/Scripts-McMejiro](https://githu
 | **Bold** | Bold | Bold |
 | **Extrabold** | Black | Black |
 
-Mejiro-20220222 uses **Mplus 1 1.001** and **Roboto 2.137**.
+McMejiro-20261011 uses **Mplus 1 1.100** and **Roboto 3.015**.
 
 ## Variable font
 
