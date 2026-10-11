@@ -13,7 +13,7 @@ Generation script is available at [AndroPlus-org/Scripts-McMejiro](https://githu
 | **Light** | Light | Light |
 | **Semibold** | Medium | Medium |
 | **Bold** | Bold | Bold |
-| **Extrabold** | Heavy | Black |
+| **Extrabold** | Black | Black |
 
 Mejiro-20220222 uses **Mplus 1 1.001** and **Roboto 2.137**.
 
